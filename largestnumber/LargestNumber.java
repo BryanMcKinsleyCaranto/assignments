@@ -12,7 +12,7 @@ public class LargestNumber {
         int num2 = scanner.nextInt();
         int num3 = scanner.nextInt();
 
-        // Find the largest number
+        // Findg the largest number
         int largest = num1;
         if (num2 > largest) {
             largest = num2;
